@@ -1,1 +1,1 @@
-Create table student(ID int auto_increment not null PRIMARY key, student_id int not null, sname varchar(50) not null, email varchar(50) not null, course varchar(50) not null);
+Create table student(ID int auto_increment not null PRIMARY key, student_id int not null, name varchar(50) not null, email varchar(50) not null, course varchar(50) not null);
